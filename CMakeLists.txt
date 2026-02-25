@@ -9,7 +9,6 @@ add_executable(app
 src/main.c
 src/sand_sim.c
 src/sand_shader.c
-src/physics.c
 )
 
 # Find raylib installed by Homebrew
